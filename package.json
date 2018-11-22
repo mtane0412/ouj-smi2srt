@@ -1,0 +1,19 @@
+{
+  "name": "ouj-smi2srt",
+  "version": "0.0.1",
+  "description": "放送大学インターネット配信の字幕をSRT形式に変換",
+  "bin": {
+    "smi2srt": "bin/smi2srt"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mtane0412",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "iconv-lite": "^0.4.24",
+    "jschardet": "^1.6.0",
+    "moment": "^2.22.2"
+  }
+}
