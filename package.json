@@ -1,6 +1,7 @@
 {
   "name": "ouj-smi2srt",
   "version": "0.0.1",
+  "private": false,
   "description": "放送大学インターネット配信の字幕をSRT形式に変換",
   "bin": {
     "smi2srt": "bin/smi2srt.js"
